@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4FFFF&height=200&section=header&text=ScremerMemer&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&fontAlign=50"/>
 
 <!-- Profile Views Counter -->
-<div align="center" style="margin: 15px 0;">
+<div align="right" style="margin: 15px 0;">
   <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=1BFFFF&style=for-the-badge" alt="Profile Views Counter"/>
 </div>
 
