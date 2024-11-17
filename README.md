@@ -55,7 +55,9 @@
         <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
           <span style="font-size: 24px;">🎨</span> Frontend Development
         </div>
-        <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,angular,sass,html&theme=dark&perline=4" />
+        <div style="display: flex; justify-content: flex-start;">
+          <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,angular,sass,html&theme=dark&perline=4" />
+        </div>
       </td>
 
   <!-- Backend Section -->
@@ -88,10 +90,12 @@
 
 <div style="background: linear-gradient(145deg, rgba(46, 49, 146, 0.15), rgba(27, 255, 255, 0.15)); border-radius: 20px; padding: 40px; margin: 30px 0; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1);">
   <!-- Primary Stats -->
-  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px;">
-    <img src="https://img.shields.io/badge/🏆_Coded-1487_Hours-blue?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=1f1f1f" />
-    <img src="https://img.shields.io/badge/💻_Projects-42_Active-purple?style=for-the-badge&labelColor=1f1f1f" />
-    <img src="https://img.shields.io/badge/🌟_Experience-5_Years-yellow?style=for-the-badge&labelColor=1f1f1f" />
+  <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 15px;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; width: 100%;">
+      <img style="justify-self: start;" src="https://img.shields.io/badge/🏆_Coded-1487_Hours-blue?style=for-the-badge&logo=wakatime&logoColor=white&labelColor=1f1f1f" />
+      <img style="justify-self: start;" src="https://img.shields.io/badge/💻_Projects-42_Active-purple?style=for-the-badge&labelColor=1f1f1f" />
+      <img style="justify-self: start;" src="https://img.shields.io/badge/🌟_Experience-5_Years-yellow?style=for-the-badge&labelColor=1f1f1f" />
+    </div>
   </div>
 
   <!-- Secondary Stats -->
@@ -145,14 +149,14 @@
 
 <div style="background: linear-gradient(145deg, rgba(46, 49, 146, 0.15), rgba(27, 255, 255, 0.15)); border-radius: 20px; padding: 40px; margin: 30px 0; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1);">
   <!-- Discord Presence -->
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 20px; display: flex; justify-content: flex-start;">
     <a href="https://discord.com/users/752883149876232198">
       <img src="https://lanyard.cnrad.dev/api/752883149876232198?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20awesome...&bg=1b1b1b&showDisplayName=true" alt="Discord Presence"/>
     </a>
   </div>
 
   <!-- Social Links -->
-  <div style="display: flex; justify-content: center; margin-top: 20px;">
+  <div style="display: flex; justify-content: flex-start; margin-top: 20px;">
     <a href="https://discord.com/users/752883149876232198" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=1f1f1f" alt="Discord"/></a><a href="mailto:your.email@gmail.com" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Gmail"/></a><a href="https://github.com/ScremerMemer" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" alt="GitHub"/></a>
   </div>
 </div>
