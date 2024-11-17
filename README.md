@@ -170,7 +170,7 @@
       </a>
     </div>
   </div>
-
+</p>
   <!-- Social Links -->
   <div align="center" style="display: flex; gap: 10px; margin-top: 20px;">
     <a href="https://discord.com/users/752883149876232198" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=1f1f1f" alt="Discord"/></a>
