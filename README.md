@@ -97,11 +97,9 @@ const aboutMe = {
 [![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScremerMemer/ScremerMemer/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ScremerMemer/ScremerMemer/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ScremerMemer/ScremerMemer/output/dist/github-snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ScremerMemer/ScremerMemer/output/dist/github-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <!-- Trophies -->
 <p align="center">
