@@ -71,7 +71,7 @@
         <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 30px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
           <span style="font-size: 24px;">🏗️</span> Backend Development
         </div>
-        <img width="100%" src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgresql,mongodb&theme=dark&perline=4" />
+        <img width="100%" src="https://skillicons.dev/icons?i=nodejs,java,python,django,postgresql,mongodb&theme=dark&perline=4" />
       </td>
 
   <!-- Tools Section -->
