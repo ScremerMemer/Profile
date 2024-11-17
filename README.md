@@ -145,7 +145,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ScremerMemer/ScremerMemer/23f9702b97b0631921da5eede52f1e05879f7d6d/dist/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ScremerMemer/ScremerMemer/d92811a3b5f921a5ba1f594f9c724a6b5215822d/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Trophies -->
