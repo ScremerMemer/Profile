@@ -162,7 +162,7 @@
   <!-- Discord Presence -->
   <div style="margin-bottom: 30px;">
     <p align="left" style="color: #1BFFFF; font-size: 18px; margin-bottom: 15px;">
-      🎮 Currently Vibing On Discord
+      Add me on Discord
     </p>
     <div align="left" style="display: flex; justify-content: flex-start;">
       <a href="https://discord.com/users/752883149876232198">
@@ -172,7 +172,7 @@
   </div>
 
   <!-- Social Links -->
-  <div align="left" style="display: flex; gap: 10px; margin-top: 20px;">
+  <div align="center" style="display: flex; gap: 10px; margin-top: 20px;">
     <a href="https://discord.com/users/752883149876232198" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=1f1f1f" alt="Discord"/></a>
     <a href="mailto:your.email@gmail.com" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Gmail"/></a>
     <a href="https://github.com/ScremerMemer" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" alt="GitHub"/></a>
