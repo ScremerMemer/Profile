@@ -8,11 +8,11 @@
   <div style="display: flex; flex-direction: column; gap: 20px;">
     <!-- First line - Left aligned -->
     <div style="text-align: left;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=50&duration=3000&pause=1000&color=1BFFFF&center=false&vCenter=true&random=false&width=1000&height=60&lines=I+Specialize+In..." />
+      <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=50&duration=2000&pause=3000&color=1BFFFF&center=false&vCenter=true&random=false&width=1000&height=60&lines=I+Specialize+In..." />
     </div>
     <!-- Second line - Center aligned -->
     <div style="text-align: center;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=45&duration=3000&pause=1000&color=1BFFFF&center=true&vCenter=true&random=false&width=1000&height=60&lines=Full+Stack+Development+%F0%9F%9A%80;Software+Architecture+%F0%9F%8F%97%EF%B8%8F;Cloud+Solutions+Engineering+%E2%98%81%EF%B8%8F;System+Design+%26+Optimization+%F0%9F%93%90;API+Integration+%26+Development+%F0%9F%94%8C;Database+Architecture+%F0%9F%97%84%EF%B8%8F;DevOps+%26+CI%2FCD+Pipelines+%F0%9F%94%A7;UI%2FUX+Design+%26+Implementation+%F0%9F%8E%A8" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=45&duration=2000&pause=3000&color=1BFFFF&center=true&vCenter=true&random=false&width=1000&height=60&lines=Full+Stack+Development+%F0%9F%9A%80;Software+Architecture+%F0%9F%8F%97%EF%B8%8F;Cloud+Solutions+Engineering+%E2%98%81%EF%B8%8F;System+Design+%26+Optimization+%F0%9F%93%90;API+Integration+%26+Development+%F0%9F%94%8C;Database+Architecture+%F0%9F%97%84%EF%B8%8F;DevOps+%26+CI%2FCD+Pipelines+%F0%9F%94%A7;UI%2FUX+Design+%26+Implementation+%F0%9F%8E%A8&delay=2000" />
     </div>
   </div>
 </div>
@@ -163,8 +163,6 @@
   <!-- Discord Presence -->
   <div style="margin-bottom: 30px;">
     <p align="left" style="color: #1BFFFF; font-size: 18px; margin-bottom: 15px;">
-      🎮 Currently Vibing On Discord
-    </p>
     <div align="left" style="display: flex; justify-content: flex-start;">
       <a href="https://discord.com/users/752883149876232198">
         <img src="https://lanyard.cnrad.dev/api/752883149876232198?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20awesome...&bg=1b1b1b&showDisplayName=true" alt="Discord Presence"/>
