@@ -3,7 +3,8 @@
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4FFFF&height=200&section=header&text=ScremerMemer&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&fontAlign=50"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00F7A4&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Architect+%F0%9F%8F%97%EF%B8%8F;Digital+Craftsman+%F0%9F%94%A8;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
+<!-- Animated Typing Text -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=32&duration=3000&pause=1000&color=1BFFFF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Software+Architect+%F0%9F%8F%97%EF%B8%8F;Cloud+Solutions+Engineer+%E2%98%81%EF%B8%8F;System+Design+Specialist+%F0%9F%93%90;API+Integration+Expert+%F0%9F%94%8C;Database+Administrator+%F0%9F%97%84%EF%B8%8F;DevOps+Practitioner+%F0%9F%94%A7;UI%2FUX+Enthusiast+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 
 
