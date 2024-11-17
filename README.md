@@ -3,16 +3,15 @@
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4FFFF&height=200&section=header&text=ScremerMemer&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&fontAlign=50"/>
 
-<!-- Profile Views Counter -->
-<div align="right" style="margin: 15px 0;">
-  <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=2E3192&style=for-the-badge&labelColor=1f1f1f" alt="Profile Views Counter"/>
-</div>
-
 <!-- Specialization Intro & Main Skills -->
 <div style="margin: 30px 0;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=50&duration=3000&pause=1000&color=1BFFFF&center=true&vCenter=true&random=false&width=1000&height=60&lines=I+Specialize+In..." />
-    <div style="margin-top: 10px;">
+  <div style="display: flex; flex-direction: column; gap: 20px;">
+    <!-- First line - Left aligned -->
+    <div style="text-align: left;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=50&duration=3000&pause=1000&color=1BFFFF&center=false&vCenter=true&random=false&width=1000&height=60&lines=I+Specialize+In..." />
+    </div>
+    <!-- Second line - Center aligned -->
+    <div style="text-align: center;">
       <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=45&duration=3000&pause=1000&color=1BFFFF&center=true&vCenter=true&random=false&width=1000&height=60&lines=Full+Stack+Development+%F0%9F%9A%80;Software+Architecture+%F0%9F%8F%97%EF%B8%8F;Cloud+Solutions+Engineering+%E2%98%81%EF%B8%8F;System+Design+%26+Optimization+%F0%9F%93%90;API+Integration+%26+Development+%F0%9F%94%8C;Database+Architecture+%F0%9F%97%84%EF%B8%8F;DevOps+%26+CI%2FCD+Pipelines+%F0%9F%94%A7;UI%2FUX+Design+%26+Implementation+%F0%9F%8E%A8" />
     </div>
   </div>
@@ -179,6 +178,11 @@
     <a href="mailto:your.email@gmail.com" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Gmail"/></a>
     <a href="https://github.com/ScremerMemer" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" alt="GitHub"/></a>
   </div>
+</div>
+</p>
+<!-- Profile Views Counter -->
+<div align="left" style="margin: 15px 0;">
+  <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=2E3192&style=for-the-badge&labelColor=1f1f1f" alt="Profile Views Counter"/>
 </div>
 
 <!-- Footer -->
