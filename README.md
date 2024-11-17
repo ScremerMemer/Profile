@@ -152,16 +152,8 @@
   </div>
 
   <!-- Social Links -->
-  <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
-    <a href="https://discord.com/users/752883149876232198" style="text-decoration: none !important; border-bottom: none;">
-      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=1f1f1f" alt="Discord"/>
-    </a>
-    <a href="mailto:your.email@gmail.com" style="text-decoration: none !important; border-bottom: none;">
-      <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Gmail"/>
-    </a>
-    <a href="https://github.com/ScremerMemer" style="text-decoration: none !important; border-bottom: none;">
-      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" alt="GitHub"/>
-    </a>
+  <div style="display: flex; justify-content: center; margin-top: 20px;">
+    <a href="https://discord.com/users/752883149876232198" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=1f1f1f" alt="Discord"/></a><a href="mailto:your.email@gmail.com" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Gmail"/></a><a href="https://github.com/ScremerMemer" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" alt="GitHub"/></a>
   </div>
 </div>
 
