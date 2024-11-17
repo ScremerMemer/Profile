@@ -5,36 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00F7A4&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Architect+%F0%9F%8F%97%EF%B8%8F;Digital+Craftsman+%F0%9F%94%A8;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
-<!-- Let's Connect Section -->
-<h2 align="left">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px">
-  <span style="background: linear-gradient(to right, #1BFFFF, #2E3192); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Let's Connect</span>
-</h2>
 
-<div style="background: linear-gradient(145deg, rgba(46, 49, 146, 0.15), rgba(27, 255, 255, 0.15)); border-radius: 20px; padding: 40px; margin: 30px 0; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1);">
-  <!-- Discord Presence -->
-  <div style="margin-bottom: 20px;">
-    <a href="https://discord.com/users/752883149876232198">
-      <img src="https://lanyard.cnrad.dev/api/752883149876232198?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20awesome...&bg=1b1b1b&showDisplayName=true" alt="Discord Presence"/>
-    </a>
-  </div>
-
-  <!-- Social Links -->
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <a href="https://twitter.com/ScremerMemer" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://www.linkedin.com/in/ScremerMemer" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:ScremerMemer@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://github.com/ScremerMemer" target="_blank">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </div>
-</div>
 
 <!-- About Me Section -->
 <h2 align="left">
@@ -190,6 +161,21 @@
     </a>
     <a href="Your_LinkedIn_URL">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://twitter.com/your_twitter">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://github.com/ScremerMemer">
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://dev.to/your_dev">
+      <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+    </a>
+    <a href="https://medium.com/@your_medium">
+      <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium"/>
+    </a>
+    <a href="https://stackoverflow.com/users/your_id">
+      <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
     </a>
   </div>
 </div>
