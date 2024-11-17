@@ -113,7 +113,7 @@
 
   <!-- Additional Stats -->
   <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-top: 15px;">
-    <img src="https://img.shields.io/badge/🎓_Certifications-8-blue?style=for-the-badge&labelColor=1f1f1f" />
+    <img src="https://img.shields.io/badge/🎓_Certifications-8-ff69b4?style=for-the-badge&labelColor=1f1f1f" />
     <img src="https://img.shields.io/badge/☕_Coffee-1238_Cups-brown?style=for-the-badge&labelColor=1f1f1f" />
     <img src="https://img.shields.io/badge/🐛_Bugs_Fixed-9427-red?style=for-the-badge&labelColor=1f1f1f" />
   </div>
