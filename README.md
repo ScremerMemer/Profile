@@ -165,14 +165,14 @@
   </div>
 </p>
   <!-- Social Links -->
-  <div align="center" style="display: flex; gap: 10px; margin-top: 20px;">
+  <div align="left" style="display: flex; gap: 10px; margin-top: 20px;">
     <a href="https://discord.com/users/752883149876232198" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=1f1f1f" alt="Discord"/></a>
     <a href="mailto:your.email@gmail.com" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Gmail"/></a>
     <a href="https://github.com/ScremerMemer" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" alt="GitHub"/></a>
   </div>
 </div>
 <!-- Profile Views Counter -->
-<div align="right" style="margin: 15px 0;">
+<div align="left" style="margin: 15px 0;">
   <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=2E3192&style=for-the-badge&labelColor=1f1f1f" alt="Profile Views Counter"/>
 </div>
 
