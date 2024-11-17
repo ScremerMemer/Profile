@@ -62,7 +62,7 @@
           <span style="font-size: 24px;">🎨</span> Frontend Development
         </div>
         <div style="display: flex; justify-content: flex-start;">
-          <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,tailwind,sass&theme=dark&perline=4" />
+          <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,html,css,typescript,tailwind,sass&theme=dark&perline=4" />
         </div>
       </td>
 
