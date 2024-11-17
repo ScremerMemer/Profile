@@ -155,8 +155,8 @@
 
 <!-- Contact Section -->
 <h2 align="left">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-  <span style="background: linear-gradient(to right, #1BFFFF, #2E3192); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Let's Connect!</span>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjAwbzkxaWtncHJ6b25yZzc3ZnptdmNidzdvbWJjaWRrbnFycTlqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/faWsfcwkzbfZQ3HOac/giphy.gif" width="30">
+  <span style="background: linear-gradient(to right, #1BFFFF, #2E3192); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Social Media</span>
 </h2>
 
 <div style="background: linear-gradient(145deg, rgba(46, 49, 146, 0.15), rgba(27, 255, 255, 0.15)); border-radius: 20px; padding: 40px; margin: 30px 0; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1);">
