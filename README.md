@@ -5,9 +5,8 @@
 
 <!-- Profile Views Counter -->
 <div align="right" style="margin: 15px 0;">
-  <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=1BFFFF&style=for-the-badge" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=1BFFFF&style=for-the-badge&labelColor=1BFFFF&text_color=000000" alt="Profile Views Counter"/>
 </div>
-
 
 <!-- Specialization Intro & Main Skills -->
 <div align="left" style="margin: 30px 0;">
