@@ -150,7 +150,7 @@
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ScremerMemer&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ScremerMemer&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6&title=Stars,Followers,Commits,Issues,Repositories,PullRequest&title_color=1BFFFF&text_color=1BFFFF&icon_color=2E3192&border_color=1BFFFF"/>
 </p>
 
 <!-- Contact Section -->
