@@ -58,7 +58,7 @@
     <tr>
       <!-- Frontend Section -->
       <td style="vertical-align: top; width: 33%; padding: 25px; background: rgba(30, 30, 30, 0.6); border-radius: 15px; border: 1px solid rgba(27, 255, 255, 0.1); transition: all 0.3s ease;">
-        <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
+        <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 30px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
           <span style="font-size: 24px;">🎨</span> Frontend Development
         </div>
         <div style="display: flex; justify-content: flex-start;">
@@ -68,7 +68,7 @@
 
   <!-- Backend Section -->
   <td style="vertical-align: top; width: 33%; padding: 25px; background: rgba(30, 30, 30, 0.6); border-radius: 15px; border: 1px solid rgba(27, 255, 255, 0.1); transition: all 0.3s ease;">
-        <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
+        <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 30px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
           <span style="font-size: 24px;">🏗️</span> Backend Development
         </div>
         <img width="100%" src="https://skillicons.dev/icons?i=nodejs,express,python,django,postgresql,mongodb&theme=dark&perline=4" />
@@ -76,7 +76,7 @@
 
   <!-- Tools Section -->
   <td style="vertical-align: top; width: 33%; padding: 25px; background: rgba(30, 30, 30, 0.6); border-radius: 15px; border: 1px solid rgba(27, 255, 255, 0.1); transition: all 0.3s ease;">
-        <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
+        <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 30px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
           <span style="font-size: 24px;">🛠️</span> Tools & DevOps
         </div>
         <img width="100%" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode,linux,bash&theme=dark&perline=4" />
