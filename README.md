@@ -176,7 +176,6 @@
 <div align="left" style="margin: 15px 0;">
   <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=2E3192&style=for-the-badge&labelColor=1f1f1f" alt="Profile Views Counter"/>
 </div>
-
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4FFFF&height=120&section=footer"/>
 
