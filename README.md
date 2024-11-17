@@ -160,10 +160,15 @@
 
 <div style="background: linear-gradient(145deg, rgba(46, 49, 146, 0.15), rgba(27, 255, 255, 0.15)); border-radius: 20px; padding: 40px; margin: 30px 0; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1);">
   <!-- Discord Presence -->
-  <div style="margin-bottom: 20px; display: flex; justify-content: flex-start;">
-    <a href="https://discord.com/users/752883149876232198">
-      <img src="https://lanyard.cnrad.dev/api/752883149876232198?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20awesome...&bg=1b1b1b&showDisplayName=true" alt="Discord Presence"/>
-    </a>
+  <div style="margin-bottom: 30px;">
+    <p style="color: #1BFFFF; font-size: 18px; margin-bottom: 15px;">
+      🎮 Currently Vibing On Discord
+    </p>
+    <div style="display: flex; justify-content: flex-start;">
+      <a href="https://discord.com/users/752883149876232198">
+        <img src="https://lanyard.cnrad.dev/api/752883149876232198?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20awesome...&bg=1b1b1b&showDisplayName=true" alt="Discord Presence"/>
+      </a>
+    </div>
   </div>
 
   <!-- Social Links -->
