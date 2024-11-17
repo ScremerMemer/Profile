@@ -3,11 +3,6 @@
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4FFFF&height=200&section=header&text=ScremerMemer&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&fontAlign=50"/>
 
-<!-- Profile Views Counter -->
-<div align="right" style="margin: 15px 0;">
-  <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=2E3192&style=for-the-badge&labelColor=1f1f1f" alt="Profile Views Counter"/>
-</div>
-
 <!-- Specialization Intro & Main Skills -->
 <div align="left" style="margin: 30px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=50&duration=3000&pause=1000&color=1BFFFF&center=false&vCenter=true&random=false&width=800&height=50&lines=I+Specialize+In..." />
@@ -175,6 +170,10 @@
     <a href="mailto:your.email@gmail.com" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Gmail"/></a>
     <a href="https://github.com/ScremerMemer" style="text-decoration: none !important;"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" alt="GitHub"/></a>
   </div>
+</div>
+<!-- Profile Views Counter -->
+<div align="right" style="margin: 15px 0;">
+  <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=2E3192&style=for-the-badge&labelColor=1f1f1f" alt="Profile Views Counter"/>
 </div>
 
 <!-- Footer -->
