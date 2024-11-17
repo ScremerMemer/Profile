@@ -152,30 +152,15 @@
   </div>
 
   <!-- Social Links -->
-  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <a href="https://discord.com/users/752883149876232198">
-      <img src="https://img.shields.io/badge/Chat%20on-Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
+    <a href="https://discord.com/users/752883149876232198" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=1f1f1f" alt="Discord"/>
     </a>
-    <a href="mailto:your.email@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <a href="mailto:your.email@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f1f1f" alt="Gmail"/>
     </a>
-    <a href="Your_LinkedIn_URL">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/your_twitter">
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://github.com/ScremerMemer">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://dev.to/your_dev">
-      <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-    </a>
-    <a href="https://medium.com/@your_medium">
-      <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium"/>
-    </a>
-    <a href="https://stackoverflow.com/users/your_id">
-      <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+    <a href="https://github.com/ScremerMemer" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=1f1f1f" alt="GitHub"/>
     </a>
   </div>
 </div>
