@@ -167,17 +167,33 @@
 </p>
 
 <!-- Contact Section -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-    Let's Connect!
-  </h2>
-  
-[![Discord](https://img.shields.io/badge/Chat%20on-Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/752883149876232198)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)
+<h2 align="left">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  <span style="background: linear-gradient(to right, #1BFFFF, #2E3192); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Let's Connect!</span>
+</h2>
 
+<div style="background: linear-gradient(145deg, rgba(46, 49, 146, 0.15), rgba(27, 255, 255, 0.15)); border-radius: 20px; padding: 40px; margin: 30px 0; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1);">
+  <!-- Discord Presence -->
+  <div style="margin-bottom: 20px;">
+    <a href="https://discord.com/users/752883149876232198">
+      <img src="https://lanyard.cnrad.dev/api/752883149876232198?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20awesome...&bg=1b1b1b&showDisplayName=true" alt="Discord Presence"/>
+    </a>
+  </div>
+
+  <!-- Social Links -->
+  <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+    <a href="https://discord.com/users/752883149876232198">
+      <img src="https://img.shields.io/badge/Chat%20on-Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+    <a href="mailto:your.email@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="Your_LinkedIn_URL">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </div>
 </div>
+
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,50:1BFFFF,100:D4FFFF&height=120&section=footer"/>
 
