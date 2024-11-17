@@ -162,8 +162,6 @@
   <!-- Discord Presence -->
   <div style="margin-bottom: 30px;">
     <p align="left" style="color: #1BFFFF; font-size: 18px; margin-bottom: 15px;">
-      Add me on Discord
-    </p>
     <div align="left" style="display: flex; justify-content: flex-start;">
       <a href="https://discord.com/users/752883149876232198">
         <img src="https://lanyard.cnrad.dev/api/752883149876232198?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20coding%20something%20awesome...&bg=1b1b1b&showDisplayName=true" alt="Discord Presence"/>
