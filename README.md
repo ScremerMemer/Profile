@@ -63,25 +63,25 @@
     <tr>
       <!-- Frontend Section -->
       <td style="vertical-align: top; width: 33%; padding: 25px; background: rgba(30, 30, 30, 0.6); border-radius: 15px; border: 1px solid rgba(27, 255, 255, 0.1); transition: all 0.3s ease;">
-        <h3 style="color: #1BFFFF; font-size: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px;">
+        <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
           <span style="font-size: 24px;">🎨</span> Frontend Development
-        </h3>
+        </div>
         <img width="100%" src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vue,angular,sass,html&theme=dark&perline=4" />
       </td>
 
   <!-- Backend Section -->
   <td style="vertical-align: top; width: 33%; padding: 25px; background: rgba(30, 30, 30, 0.6); border-radius: 15px; border: 1px solid rgba(27, 255, 255, 0.1); transition: all 0.3s ease;">
-        <h3 style="color: #1BFFFF; font-size: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px;">
+        <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
           <span style="font-size: 24px;">🏗️</span> Backend Development
-        </h3>
+        </div>
         <img width="100%" src="https://skillicons.dev/icons?i=nodejs,express,python,django,go,graphql,postgresql,mongodb&theme=dark&perline=4" />
       </td>
 
   <!-- Tools Section -->
   <td style="vertical-align: top; width: 33%; padding: 25px; background: rgba(30, 30, 30, 0.6); border-radius: 15px; border: 1px solid rgba(27, 255, 255, 0.1); transition: all 0.3s ease;">
-        <h3 style="color: #1BFFFF; font-size: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px;">
+        <div style="color: #1BFFFF; font-size: 20px; margin-bottom: 20px; display: flex; align-items: center; gap: 10px; font-weight: bold;">
           <span style="font-size: 24px;">🛠️</span> Tools & DevOps
-        </h3>
+        </div>
         <img width="100%" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,vscode,linux,bash&theme=dark&perline=4" />
       </td>
     </tr>
