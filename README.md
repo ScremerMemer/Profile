@@ -5,33 +5,11 @@
 
 <!-- Specialization Intro & Main Skills -->
 <div align="center" style="margin: 30px 0;">
-  <!-- Intro Text with Decorations -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60px" />
-      <div style="width: 2px; height: 50px; background: linear-gradient(to bottom, #1BFFFF, transparent);"></div>
-    </div>
-    
-  <div style="position: relative;">
-      <div style="position: absolute; top: -10px; left: -10px; width: 20px; height: 20px; border-top: 2px solid #1BFFFF; border-left: 2px solid #1BFFFF; opacity: 0.6;"></div>
-      <div style="position: absolute; top: -10px; right: -10px; width: 20px; height: 20px; border-top: 2px solid #1BFFFF; border-right: 2px solid #1BFFFF; opacity: 0.6;"></div>
-      <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=50&duration=2000&pause=500&color=1BFFFF&center=true&vCenter=true&random=false&width=800&height=80&lines=I+Specialize+In..." />
-      <div style="position: absolute; bottom: -10px; left: -10px; width: 20px; height: 20px; border-bottom: 2px solid #1BFFFF; border-left: 2px solid #1BFFFF; opacity: 0.6;"></div>
-      <div style="position: absolute; bottom: -10px; right: -10px; width: 20px; height: 20px; border-bottom: 2px solid #1BFFFF; border-right: 2px solid #1BFFFF; opacity: 0.6;"></div>
-    </div>
-    
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60px" style="transform: scaleX(-1);" />
-      <div style="width: 2px; height: 50px; background: linear-gradient(to bottom, #1BFFFF, transparent);"></div>
-    </div>
-  </div>
+  <!-- Intro Text -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=50&duration=2000&pause=500&color=1BFFFF&center=true&vCenter=true&random=false&width=1000&height=80&lines=I+Specialize+In..." />
   
-  <!-- Main Skills with Enhanced Decorations -->
-  <div style="position: relative; margin-top: 30px;">
-    <div style="position: absolute; top: 50%; left: -20px; transform: translateY(-50%); width: 3px; height: 70%; background: linear-gradient(to bottom, #1BFFFF, transparent);"></div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=45&duration=2000&pause=500&color=1BFFFF&center=true&vCenter=true&random=false&width=800&height=80&lines=Full+Stack+Development+%F0%9F%9A%80;Software+Architecture+%F0%9F%8F%97%EF%B8%8F;Cloud+Solutions+Engineering+%E2%98%81%EF%B8%8F;System+Design+%26+Optimization+%F0%9F%93%90;API+Integration+%26+Development+%F0%9F%94%8C;Database+Architecture+%F0%9F%97%84%EF%B8%8F;DevOps+%26+CI%2FCD+Pipelines+%F0%9F%94%A7;UI%2FUX+Design+%26+Implementation+%F0%9F%8E%A8" />
-    <div style="position: absolute; top: 50%; right: -20px; transform: translateY(-50%); width: 3px; height: 70%; background: linear-gradient(to bottom, #1BFFFF, transparent);"></div>
-  </div>
+  <!-- Main Skills -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=45&duration=2000&pause=500&color=1BFFFF&center=true&vCenter=true&random=false&width=1000&height=80&lines=Full+Stack+Development+%F0%9F%9A%80;Software+Architecture+%F0%9F%8F%97%EF%B8%8F;Cloud+Solutions+Engineering+%E2%98%81%EF%B8%8F;System+Design+%26+Optimization+%F0%9F%93%90;API+Integration+%26+Development+%F0%9F%94%8C;Database+Architecture+%F0%9F%97%84%EF%B8%8F;DevOps+%26+CI%2FCD+Pipelines+%F0%9F%94%A7;UI%2FUX+Design+%26+Implementation+%F0%9F%8E%A8" />
 </div>
 
 
