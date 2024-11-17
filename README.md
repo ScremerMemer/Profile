@@ -134,7 +134,7 @@
 
 <!-- Epic Quote -->
 <div align="center" style="margin: 30px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=45&duration=2000&pause=500&color=1BFFFF&center=true&vCenter=true&random=false&width=1000&height=80&lines=while(!(succeed+%3D+try()));+Never+Give+Up!;Code+Is+Poetry%2C+Debug+Is+Art;Think+Twice%2C+Code+Once;Building+The+Future%2C+One+Line+At+A+Time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=League+Spartan&weight=600&size=45&duration=2000&pause=500&color=1BFFFF&center=true&vCenter=true&random=false&width=1000&height=80&lines=while(!(succeed+%3D+try()));+Never+Give+Up!;Code+Is+Poetry%2C+Debug+Is+Art;Think+Twice%2C+Code+Once;Building+The+Future%2C+One+Line+At+A+Time;if(brain!%3Dempty)+%7B+keepCoding()+%7D;Eat()+Sleep()+Code()+Repeat();Dreams.js+%7B+status%3A+loading...+%7D;git+commit+-m+%22Fixed+bugs+in+production%22;function+life()+%7B+return+code.repeat()+%7D;console.log(%22Hello%2C+World+of+Possibilities!%22)" />
 </div>
 
 <!-- Snake Animation -->
