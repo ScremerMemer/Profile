@@ -133,7 +133,7 @@
 <div style="background: linear-gradient(145deg, rgba(46, 49, 146, 0.1), rgba(27, 255, 255, 0.1)); border-radius: 10px; padding: 20px; margin: 20px 0; backdrop-filter: blur(10px); border: 1px solid rgba(255, 255, 255, 0.1);">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ScremerMemer&show_icons=true&theme=transparent&bg_color=00000000&hide_border=true&icon_color=1BFFFF&title_color=2E3192&text_color=ffffff"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ScremerMemer&theme=transparent&background=00000000&hide_border=true&ring=1BFFFF&fire=2E3192&currStreakLabel=1BFFFF"/>
+    <img width="49%" src="https://streak-stats.demolab.com/?user=ScremerMemer&theme=transparent&hide_border=true&background=00000000&fire=2E3192&ring=1BFFFF&currStreakLabel=1BFFFF"/>
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ScremerMemer&custom_title=Contribution%20Graph&bg_color=00000000&color=1BFFFF&line=2E3192&point=1BFFFF&area_color=2E3192&title_color=1BFFFF&area=true&hide_border=true"/>
   </div>
 </div>
