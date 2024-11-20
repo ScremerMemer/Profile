@@ -180,7 +180,7 @@
 </p>
 <!-- Profile Views Counter -->
 <div align="left" style="margin: 15px 0;">
-  <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=2E3192&style=for-the-badge&labelColor=1effff" alt="Profile Views Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=ScremerMemer&label=Profile%20Views&color=00FFFF&style=for-the-badge&labelColor=1effff" alt="Profile Views Counter"/>
 </div>
 
 <!-- Footer -->
